@@ -1,8 +1,9 @@
-# Vite + Tailwind + TypeScript + SWC Boilerplate
+# Vite + Shadcn UI + Tailwind + TypeScript + SWC Boilerplate
 
 This is a boilerplate for quickly setting up a frontend project with:
 
 - **Vite**: Fast build tool and development server
+- **Shadcn UI**: Slick nw design on frontend
 - **Tailwind CSS**: Utility-first CSS framework
 - **TypeScript**: Type-safe JavaScript
 - **SWC**: Super-fast compiler for JavaScript and TypeScript
